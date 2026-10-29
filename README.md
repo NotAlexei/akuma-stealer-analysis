@@ -4,6 +4,7 @@ Static analysis of **Akuma Stealer**, a Malware-as-a-Service (MaaS) Windows info
 Telegram, based on its operator installer `AkumaClient_1.5.exe` and two stealer stubs.
 
 Virustotal: https://www.virustotal.com/gui/file-analysis/YjhhMjM5ODM5OTYzMzYyM2M5ZmQ2MTExZDUzNjJiOTI6MTc5MzMxNzExOQ==
+
 Malwarebazaar: 
 
 ## TL;DR
