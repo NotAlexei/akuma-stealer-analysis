@@ -1,0 +1,9 @@
+# Never commit live samples or sensitive material to this public repo
+*.exe
+*.dll
+*.bin
+*.dmp
+*.zip
+Failure/
+server.key
+server.crt
