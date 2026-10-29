@@ -3,12 +3,8 @@
 Static analysis of **Akuma Stealer**, a Malware-as-a-Service (MaaS) Windows infostealer sold via
 Telegram, based on its operator installer `AkumaClient_1.5.exe` and two stealer stubs.
 
-> **Scope & ethics.** This repo contains only *detection and intelligence* material: a writeup,
-> YARA rules, IOCs, and decrypted-string references. It contains **no malware samples** (those are
-> on MalwareBazaar) and **no attribution/PII** (developer-identifying OPSEC leaks were found and
-> reported privately to the relevant CERT/registrar/host — they are deliberately not published
-> here). Everything below is from static analysis and sandboxed CPU emulation; nothing was executed
-> natively, and no live operator infrastructure was accessed.
+Virustotal: https://www.virustotal.com/gui/file-analysis/YjhhMjM5ODM5OTYzMzYyM2M5ZmQ2MTExZDUzNjJiOTI6MTc5MzMxNzExOQ==
+Malwarebazaar: 
 
 ## TL;DR
 
