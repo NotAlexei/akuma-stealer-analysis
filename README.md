@@ -5,7 +5,7 @@ Telegram, based on its operator installer `AkumaClient_1.5.exe` and two stealer 
 
 Virustotal: https://www.virustotal.com/gui/file-analysis/YjhhMjM5ODM5OTYzMzYyM2M5ZmQ2MTExZDUzNjJiOTI6MTc5MzMxNzExOQ==
 
-Malwarebazaar: 
+Malwarebazaar: https://bazaar.abuse.ch/sample/48e19794691a95f4b7a1f6b1726b5c2b02c5c4e1adf833ffebad20ad890af1bf/
 
 ## TL;DR
 
